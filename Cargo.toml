@@ -1,0 +1,39 @@
+[workspace]
+resolver = "3"
+members = ["crates/dindim-core", "crates/dindim-store", "crates/dindim-i18n", "crates/dindim"]
+
+[workspace.package]
+version = "0.1.0-alpha.1"
+edition = "2024"
+rust-version = "1.92"
+license = "Apache-2.0"
+authors = ["Thiago D."]
+repository = "https://github.com/thdtr/dindim"
+
+[workspace.dependencies]
+dindim-core = { path = "crates/dindim-core", version = "0.1.0-alpha.1" }
+dindim-store = { path = "crates/dindim-store", version = "0.1.0-alpha.1" }
+dindim-i18n = { path = "crates/dindim-i18n", version = "0.1.0-alpha.1" }
+jiff = { version = "1", default-features = false, features = ["std"] }
+thiserror = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+rusqlite = { version = "0.43", features = ["bundled-sqlcipher-vendored-openssl", "backup"] }
+zip = { version = "9", default-features = false, features = ["deflate-flate2-zlib-rs"] }
+csv = "1"
+tracing = "0.1"
+unicode-normalization = "0.1"
+tempfile = "3"
+proptest = "1"
+
+[workspace.lints.rust]
+unsafe_code = "forbid"
+missing_debug_implementations = "warn"
+
+[workspace.lints.clippy]
+all = { level = "warn", priority = -1 }
+
+[profile.release]
+lto = "thin"
+codegen-units = 1
+strip = true

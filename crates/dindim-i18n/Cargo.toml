@@ -1,0 +1,21 @@
+[package]
+name = "dindim-i18n"
+description = "Translations and locale-aware formatting for dindim."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+
+[dependencies]
+dindim-core.workspace = true
+jiff.workspace = true
+fluent-bundle = "0.16"
+unic-langid = { version = "0.9", features = ["macros"] }
+
+[dev-dependencies]
+fluent-syntax = "0.12"
+
+[lints]
+workspace = true

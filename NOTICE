@@ -1,0 +1,20 @@
+dindim
+Copyright 2026 the dindim contributors
+
+This product is licensed under the Apache License, Version 2.0.
+
+It includes the following typefaces, licensed under the SIL Open Font
+License, Version 1.1. Their license texts are in assets/fonts.
+
+  Figtree, copyright 2022 The Figtree Project Authors
+  https://github.com/erikdkennedy/figtree
+
+  Bricolage Grotesque, copyright 2022 The Bricolage Grotesque Project Authors
+  https://github.com/ateliertriay/bricolage
+
+The "Figtree Tabular" fonts are modified versions of Figtree with tabular
+figures enabled by default.
+
+Binary releases also include SQLCipher, SQLite, OpenSSL and many Rust
+crates. Their licenses are listed in THIRD-PARTY-LICENSES.html, which ships
+with every release.

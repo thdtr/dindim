@@ -1,0 +1,26 @@
+[package]
+name = "dindim-store"
+description = "Local storage for dindim: encrypted SQLite ledgers, account vault, backups and CSV."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+
+[dependencies]
+dindim-core.workspace = true
+jiff.workspace = true
+thiserror.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+rusqlite.workspace = true
+zip.workspace = true
+csv.workspace = true
+tracing.workspace = true
+
+[dev-dependencies]
+tempfile.workspace = true
+
+[lints]
+workspace = true

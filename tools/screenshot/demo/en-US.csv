@@ -1,0 +1,241 @@
+date,type,amount,category,note
+2026-01-05,income,2650.00,Salary,Paycheck
+2026-01-21,expense,83.95,Groceries,Weekly groceries
+2026-01-03,expense,147.27,Groceries,Weekly groceries
+2026-01-04,expense,34.97,Groceries,Farmers market
+2026-01-19,expense,22.37,Groceries,Farmers market
+2026-01-30,expense,40.78,Groceries,Farmers market
+2026-01-07,expense,1450.00,Rent,November rent
+2026-01-14,expense,107.12,Utilities,Electric bill
+2026-01-03,expense,65.00,Utilities,Internet
+2026-01-18,expense,43.69,Transportation,Gas
+2026-01-02,expense,45.00,Transportation,Bus pass
+2026-01-21,expense,40.84,Dining out,Pizza night
+2026-01-31,expense,7.13,Dining out,Coffee with Sam
+2026-01-19,expense,10.56,Dining out,Coffee with Sam
+2026-01-02,expense,8.76,Dining out,Coffee with Sam
+2026-01-18,expense,20.45,Health,Pharmacy
+2026-01-14,expense,25.47,Fun,Movie tickets
+2026-01-18,expense,25.20,Fun,Movie tickets
+2026-01-06,reserve_deposit,300.00,,Emergency fund
+2026-02-05,income,2650.00,Salary,Paycheck
+2026-02-06,expense,88.44,Groceries,Weekly groceries
+2026-02-19,expense,126.79,Groceries,Weekly groceries
+2026-02-21,expense,95.39,Groceries,Weekly groceries
+2026-02-04,expense,42.43,Groceries,Farmers market
+2026-02-23,expense,22.57,Groceries,Farmers market
+2026-02-19,expense,1450.00,Rent,November rent
+2026-02-07,expense,110.33,Utilities,Electric bill
+2026-02-22,expense,111.77,Utilities,Electric bill
+2026-02-14,expense,121.83,Utilities,Electric bill
+2026-02-11,expense,65.00,Utilities,Internet
+2026-02-15,expense,42.40,Transportation,Gas
+2026-02-10,expense,40.08,Transportation,Gas
+2026-02-26,expense,38.68,Transportation,Gas
+2026-02-23,expense,45.00,Transportation,Bus pass
+2026-02-19,expense,34.14,Dining out,Pizza night
+2026-02-16,expense,10.01,Dining out,Coffee with Sam
+2026-02-24,expense,11.09,Dining out,Coffee with Sam
+2026-02-10,expense,7.24,Dining out,Coffee with Sam
+2026-02-17,expense,32.12,Health,Pharmacy
+2026-02-25,expense,27.50,Fun,Movie tickets
+2026-02-06,reserve_deposit,300.00,,Emergency fund
+2026-03-05,income,2650.00,Salary,Paycheck
+2026-03-02,expense,158.80,Groceries,Weekly groceries
+2026-03-22,expense,86.35,Groceries,Weekly groceries
+2026-03-19,expense,32.85,Groceries,Farmers market
+2026-03-11,expense,34.34,Groceries,Farmers market
+2026-03-20,expense,40.34,Groceries,Farmers market
+2026-03-19,expense,1450.00,Rent,November rent
+2026-03-27,expense,93.83,Utilities,Electric bill
+2026-03-31,expense,65.00,Utilities,Internet
+2026-03-23,expense,48.60,Transportation,Gas
+2026-03-03,expense,36.24,Transportation,Gas
+2026-03-24,expense,45.00,Transportation,Bus pass
+2026-03-19,expense,41.95,Dining out,Pizza night
+2026-03-27,expense,37.12,Dining out,Pizza night
+2026-03-10,expense,35.90,Dining out,Pizza night
+2026-03-12,expense,6.73,Dining out,Coffee with Sam
+2026-03-31,expense,11.22,Dining out,Coffee with Sam
+2026-03-12,expense,8.22,Dining out,Coffee with Sam
+2026-03-04,expense,35.22,Health,Pharmacy
+2026-03-02,expense,23.93,Health,Pharmacy
+2026-03-25,expense,26.77,Health,Pharmacy
+2026-03-24,expense,26.53,Fun,Movie tickets
+2026-03-06,reserve_deposit,300.00,,Emergency fund
+2026-04-05,income,2650.00,Salary,Paycheck
+2026-04-05,income,585.54,Side gigs,Logo design
+2026-04-03,expense,93.62,Groceries,Weekly groceries
+2026-04-15,expense,112.90,Groceries,Weekly groceries
+2026-04-09,expense,25.60,Groceries,Farmers market
+2026-04-27,expense,37.63,Groceries,Farmers market
+2026-04-28,expense,42.53,Groceries,Farmers market
+2026-04-09,expense,1450.00,Rent,November rent
+2026-04-22,expense,126.21,Utilities,Electric bill
+2026-04-13,expense,129.22,Utilities,Electric bill
+2026-04-08,expense,65.00,Utilities,Internet
+2026-04-06,expense,38.09,Transportation,Gas
+2026-04-08,expense,45.00,Transportation,Bus pass
+2026-04-16,expense,40.06,Dining out,Pizza night
+2026-04-09,expense,9.38,Dining out,Coffee with Sam
+2026-04-05,expense,32.16,Health,Pharmacy
+2026-04-12,expense,30.24,Fun,Movie tickets
+2026-04-19,expense,27.26,Fun,Movie tickets
+2026-04-05,expense,31.07,Fun,Movie tickets
+2026-04-06,reserve_deposit,300.00,,Emergency fund
+2026-05-05,income,2650.00,Salary,Paycheck
+2026-05-05,income,585.40,Side gigs,Logo design
+2026-05-26,expense,125.81,Groceries,Weekly groceries
+2026-05-13,expense,112.60,Groceries,Weekly groceries
+2026-05-13,expense,112.28,Groceries,Weekly groceries
+2026-05-16,expense,36.40,Groceries,Farmers market
+2026-05-02,expense,1450.00,Rent,November rent
+2026-05-07,expense,108.04,Utilities,Electric bill
+2026-05-06,expense,65.00,Utilities,Internet
+2026-05-20,expense,36.07,Transportation,Gas
+2026-05-04,expense,35.00,Transportation,Gas
+2026-05-19,expense,45.00,Transportation,Bus pass
+2026-05-04,expense,35.44,Dining out,Pizza night
+2026-05-20,expense,28.52,Dining out,Pizza night
+2026-05-03,expense,32.25,Dining out,Pizza night
+2026-05-13,expense,8.02,Dining out,Coffee with Sam
+2026-05-21,expense,9.08,Dining out,Coffee with Sam
+2026-05-31,expense,10.05,Dining out,Coffee with Sam
+2026-05-12,expense,34.42,Health,Pharmacy
+2026-05-04,expense,19.72,Health,Pharmacy
+2026-05-28,expense,34.99,Health,Pharmacy
+2026-05-16,expense,28.95,Fun,Movie tickets
+2026-05-10,expense,24.87,Fun,Movie tickets
+2026-05-06,reserve_deposit,300.00,,Emergency fund
+2026-06-05,income,2650.00,Salary,Paycheck
+2026-06-05,income,412.27,Side gigs,Logo design
+2026-06-09,expense,119.20,Groceries,Weekly groceries
+2026-06-27,expense,136.69,Groceries,Weekly groceries
+2026-06-06,expense,122.29,Groceries,Weekly groceries
+2026-06-07,expense,41.63,Groceries,Farmers market
+2026-06-12,expense,1450.00,Rent,November rent
+2026-06-18,expense,127.44,Utilities,Electric bill
+2026-06-01,expense,121.05,Utilities,Electric bill
+2026-06-17,expense,102.20,Utilities,Electric bill
+2026-06-21,expense,65.00,Utilities,Internet
+2026-06-28,expense,40.34,Transportation,Gas
+2026-06-17,expense,42.51,Transportation,Gas
+2026-06-30,expense,38.42,Transportation,Gas
+2026-06-12,expense,45.00,Transportation,Bus pass
+2026-06-18,expense,38.29,Dining out,Pizza night
+2026-06-11,expense,41.03,Dining out,Pizza night
+2026-06-08,expense,40.55,Dining out,Pizza night
+2026-06-26,expense,8.95,Dining out,Coffee with Sam
+2026-06-24,expense,24.28,Health,Pharmacy
+2026-06-07,expense,36.20,Health,Pharmacy
+2026-06-12,expense,31.48,Fun,Movie tickets
+2026-06-01,expense,24.28,Fun,Movie tickets
+2026-06-06,reserve_deposit,300.00,,Emergency fund
+2026-07-05,income,2650.00,Salary,Paycheck
+2026-07-05,income,363.45,Side gigs,Logo design
+2026-07-20,expense,158.35,Groceries,Weekly groceries
+2026-07-12,expense,116.63,Groceries,Weekly groceries
+2026-07-26,expense,156.76,Groceries,Weekly groceries
+2026-07-12,expense,34.93,Groceries,Farmers market
+2026-07-03,expense,29.03,Groceries,Farmers market
+2026-07-04,expense,29.29,Groceries,Farmers market
+2026-07-16,expense,1450.00,Rent,November rent
+2026-07-07,expense,109.76,Utilities,Electric bill
+2026-07-20,expense,126.87,Utilities,Electric bill
+2026-07-20,expense,65.00,Utilities,Internet
+2026-07-30,expense,48.37,Transportation,Gas
+2026-07-12,expense,51.37,Transportation,Gas
+2026-07-21,expense,45.00,Transportation,Bus pass
+2026-07-04,expense,35.95,Dining out,Pizza night
+2026-07-26,expense,32.08,Dining out,Pizza night
+2026-07-16,expense,31.65,Dining out,Pizza night
+2026-07-26,expense,9.90,Dining out,Coffee with Sam
+2026-07-03,expense,10.55,Dining out,Coffee with Sam
+2026-07-13,expense,18.47,Health,Pharmacy
+2026-07-24,expense,21.50,Health,Pharmacy
+2026-07-05,expense,24.28,Fun,Movie tickets
+2026-07-06,reserve_deposit,300.00,,Emergency fund
+2026-08-05,income,2650.00,Salary,Paycheck
+2026-08-26,expense,133.72,Groceries,Weekly groceries
+2026-08-05,expense,130.10,Groceries,Weekly groceries
+2026-08-16,expense,34.35,Groceries,Farmers market
+2026-08-05,expense,42.47,Groceries,Farmers market
+2026-08-18,expense,25.36,Groceries,Farmers market
+2026-08-01,expense,1450.00,Rent,November rent
+2026-08-21,expense,94.20,Utilities,Electric bill
+2026-08-17,expense,120.69,Utilities,Electric bill
+2026-08-30,expense,95.70,Utilities,Electric bill
+2026-08-14,expense,65.00,Utilities,Internet
+2026-08-01,expense,40.15,Transportation,Gas
+2026-08-07,expense,45.00,Transportation,Bus pass
+2026-08-08,expense,40.01,Dining out,Pizza night
+2026-08-11,expense,33.31,Dining out,Pizza night
+2026-08-18,expense,36.58,Dining out,Pizza night
+2026-08-02,expense,10.12,Dining out,Coffee with Sam
+2026-08-22,expense,38.89,Health,Pharmacy
+2026-08-27,expense,36.16,Health,Pharmacy
+2026-08-27,expense,29.13,Fun,Movie tickets
+2026-08-05,expense,29.44,Fun,Movie tickets
+2026-08-06,reserve_deposit,300.00,,Emergency fund
+2026-09-05,income,2650.00,Salary,Paycheck
+2026-09-28,expense,116.05,Groceries,Weekly groceries
+2026-09-20,expense,20.16,Groceries,Farmers market
+2026-09-25,expense,1450.00,Rent,November rent
+2026-09-05,expense,109.39,Utilities,Electric bill
+2026-09-20,expense,65.00,Utilities,Internet
+2026-09-02,expense,41.67,Transportation,Gas
+2026-09-22,expense,45.61,Transportation,Gas
+2026-09-17,expense,46.37,Transportation,Gas
+2026-09-16,expense,45.00,Transportation,Bus pass
+2026-09-02,expense,33.08,Dining out,Pizza night
+2026-09-07,expense,33.67,Dining out,Pizza night
+2026-09-02,expense,30.00,Dining out,Pizza night
+2026-09-15,expense,6.78,Dining out,Coffee with Sam
+2026-09-25,expense,7.14,Dining out,Coffee with Sam
+2026-09-15,expense,9.83,Dining out,Coffee with Sam
+2026-09-17,expense,39.82,Health,Pharmacy
+2026-09-17,expense,23.16,Health,Pharmacy
+2026-09-23,expense,26.35,Health,Pharmacy
+2026-09-17,expense,29.46,Fun,Movie tickets
+2026-09-26,expense,28.89,Fun,Movie tickets
+2026-09-06,reserve_deposit,300.00,,Emergency fund
+2026-10-05,income,2650.00,Salary,Paycheck
+2026-10-30,expense,125.83,Groceries,Weekly groceries
+2026-10-29,expense,157.27,Groceries,Weekly groceries
+2026-10-27,expense,38.33,Groceries,Farmers market
+2026-10-05,expense,1450.00,Rent,November rent
+2026-10-13,expense,108.10,Utilities,Electric bill
+2026-10-11,expense,65.00,Utilities,Internet
+2026-10-08,expense,43.77,Transportation,Gas
+2026-10-03,expense,39.35,Transportation,Gas
+2026-10-22,expense,41.20,Transportation,Gas
+2026-10-26,expense,45.00,Transportation,Bus pass
+2026-10-31,expense,41.17,Dining out,Pizza night
+2026-10-12,expense,7.96,Dining out,Coffee with Sam
+2026-10-09,expense,7.90,Dining out,Coffee with Sam
+2026-10-31,expense,11.28,Dining out,Coffee with Sam
+2026-10-24,expense,18.85,Health,Pharmacy
+2026-10-29,expense,28.98,Fun,Movie tickets
+2026-10-06,expense,30.83,Fun,Movie tickets
+2026-10-06,reserve_deposit,300.00,,Emergency fund
+2026-11-05,income,2650.00,Salary,Paycheck
+2026-11-05,income,441.40,Side gigs,Logo design
+2026-11-13,expense,107.78,Groceries,Weekly groceries
+2026-11-14,expense,96.03,Groceries,Weekly groceries
+2026-11-12,expense,106.09,Groceries,Weekly groceries
+2026-11-12,expense,20.79,Groceries,Farmers market
+2026-11-11,expense,1450.00,Rent,November rent
+2026-11-01,expense,105.74,Utilities,Electric bill
+2026-11-11,expense,111.19,Utilities,Electric bill
+2026-11-10,expense,65.00,Utilities,Internet
+2026-11-08,expense,54.90,Transportation,Gas
+2026-11-04,expense,45.00,Transportation,Bus pass
+2026-11-09,expense,28.81,Dining out,Pizza night
+2026-11-06,expense,33.53,Dining out,Pizza night
+2026-11-14,expense,9.14,Dining out,Coffee with Sam
+2026-11-05,expense,36.97,Health,Pharmacy
+2026-11-17,expense,38.37,Health,Pharmacy
+2026-11-11,expense,24.91,Fun,Movie tickets
+2026-11-09,expense,24.58,Fun,Movie tickets
+2026-11-06,reserve_deposit,300.00,,Emergency fund
+2026-09-14,reserve_withdrawal,450.00,,Car repair

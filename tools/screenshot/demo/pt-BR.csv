@@ -1,0 +1,256 @@
+date,type,amount,category,note
+2026-01-05,income,5200.00,Salário,Salário
+2026-01-05,income,647.45,Extra,Freela de design
+2026-01-31,expense,255.51,Mercado,Compras da semana
+2026-01-21,expense,279.02,Mercado,Compras da semana
+2026-01-03,expense,89.82,Mercado,Feira
+2026-01-28,expense,58.21,Mercado,Feira
+2026-01-03,expense,1800.00,Aluguel,Aluguel de novembro
+2026-01-15,expense,180.94,Contas,Conta de luz
+2026-01-11,expense,110.00,Contas,Internet
+2026-01-20,expense,160.58,Transporte,Gasolina
+2026-01-02,expense,193.16,Transporte,Gasolina
+2026-01-08,expense,22.48,Transporte,Uber
+2026-01-06,expense,28.72,Transporte,Uber
+2026-01-02,expense,25.41,Transporte,Uber
+2026-01-30,expense,82.77,Restaurante,Pizza de sexta
+2026-01-10,expense,22.87,Restaurante,Café com a Ana
+2026-01-25,expense,16.21,Restaurante,Café com a Ana
+2026-01-10,expense,21.12,Restaurante,Café com a Ana
+2026-01-22,expense,49.57,Saúde,Farmácia
+2026-01-09,expense,63.42,Saúde,Farmácia
+2026-01-26,expense,36.48,Saúde,Farmácia
+2026-01-02,expense,60.31,Lazer,Cinema
+2026-01-01,expense,75.01,Lazer,Cinema
+2026-01-06,reserve_deposit,500.00,,Reserva do mês
+2026-02-05,income,5200.00,Salário,Salário
+2026-02-15,expense,284.82,Mercado,Compras da semana
+2026-02-27,expense,75.40,Mercado,Feira
+2026-02-22,expense,80.55,Mercado,Feira
+2026-02-18,expense,72.20,Mercado,Feira
+2026-02-17,expense,1800.00,Aluguel,Aluguel de novembro
+2026-02-07,expense,198.80,Contas,Conta de luz
+2026-02-11,expense,196.27,Contas,Conta de luz
+2026-02-27,expense,252.24,Contas,Conta de luz
+2026-02-23,expense,110.00,Contas,Internet
+2026-02-12,expense,154.45,Transporte,Gasolina
+2026-02-27,expense,160.63,Transporte,Gasolina
+2026-02-03,expense,28.46,Transporte,Uber
+2026-02-06,expense,72.26,Restaurante,Pizza de sexta
+2026-02-03,expense,85.60,Restaurante,Pizza de sexta
+2026-02-22,expense,17.77,Restaurante,Café com a Ana
+2026-02-20,expense,16.96,Restaurante,Café com a Ana
+2026-02-23,expense,18.00,Restaurante,Café com a Ana
+2026-02-15,expense,50.18,Saúde,Farmácia
+2026-02-09,expense,69.13,Lazer,Cinema
+2026-02-06,reserve_deposit,500.00,,Reserva do mês
+2026-03-05,income,5200.00,Salário,Salário
+2026-03-05,income,815.56,Extra,Freela de design
+2026-03-11,expense,330.10,Mercado,Compras da semana
+2026-03-02,expense,351.43,Mercado,Compras da semana
+2026-03-07,expense,366.84,Mercado,Compras da semana
+2026-03-01,expense,67.47,Mercado,Feira
+2026-03-13,expense,1800.00,Aluguel,Aluguel de novembro
+2026-03-09,expense,221.18,Contas,Conta de luz
+2026-03-21,expense,196.46,Contas,Conta de luz
+2026-03-08,expense,110.00,Contas,Internet
+2026-03-09,expense,216.93,Transporte,Gasolina
+2026-03-05,expense,34.36,Transporte,Uber
+2026-03-02,expense,86.13,Restaurante,Pizza de sexta
+2026-03-01,expense,82.27,Restaurante,Pizza de sexta
+2026-03-10,expense,79.53,Restaurante,Pizza de sexta
+2026-03-19,expense,22.83,Restaurante,Café com a Ana
+2026-03-22,expense,83.87,Saúde,Farmácia
+2026-03-25,expense,66.67,Lazer,Cinema
+2026-03-24,expense,70.12,Lazer,Cinema
+2026-03-06,reserve_deposit,500.00,,Reserva do mês
+2026-04-05,income,5200.00,Salário,Salário
+2026-04-05,income,1005.47,Extra,Freela de design
+2026-04-05,expense,264.34,Mercado,Compras da semana
+2026-04-27,expense,418.09,Mercado,Compras da semana
+2026-04-21,expense,390.65,Mercado,Compras da semana
+2026-04-23,expense,81.41,Mercado,Feira
+2026-04-05,expense,82.90,Mercado,Feira
+2026-04-25,expense,81.31,Mercado,Feira
+2026-04-19,expense,1800.00,Aluguel,Aluguel de novembro
+2026-04-19,expense,245.36,Contas,Conta de luz
+2026-04-29,expense,238.26,Contas,Conta de luz
+2026-04-22,expense,258.32,Contas,Conta de luz
+2026-04-23,expense,110.00,Contas,Internet
+2026-04-01,expense,153.42,Transporte,Gasolina
+2026-04-21,expense,32.77,Transporte,Uber
+2026-04-13,expense,88.48,Restaurante,Pizza de sexta
+2026-04-02,expense,12.38,Restaurante,Café com a Ana
+2026-04-21,expense,22.88,Restaurante,Café com a Ana
+2026-04-22,expense,17.00,Restaurante,Café com a Ana
+2026-04-09,expense,35.27,Saúde,Farmácia
+2026-04-15,expense,40.74,Saúde,Farmácia
+2026-04-30,expense,70.30,Lazer,Cinema
+2026-04-29,expense,70.96,Lazer,Cinema
+2026-04-03,expense,73.50,Lazer,Cinema
+2026-04-06,reserve_deposit,500.00,,Reserva do mês
+2026-05-05,income,5200.00,Salário,Salário
+2026-05-09,expense,274.39,Mercado,Compras da semana
+2026-05-28,expense,337.01,Mercado,Compras da semana
+2026-05-24,expense,56.81,Mercado,Feira
+2026-05-08,expense,1800.00,Aluguel,Aluguel de novembro
+2026-05-28,expense,211.33,Contas,Conta de luz
+2026-05-03,expense,219.24,Contas,Conta de luz
+2026-05-30,expense,110.00,Contas,Internet
+2026-05-20,expense,201.83,Transporte,Gasolina
+2026-05-07,expense,21.17,Transporte,Uber
+2026-05-20,expense,24.03,Transporte,Uber
+2026-05-11,expense,28.40,Transporte,Uber
+2026-05-24,expense,82.46,Restaurante,Pizza de sexta
+2026-05-20,expense,93.25,Restaurante,Pizza de sexta
+2026-05-05,expense,70.51,Restaurante,Pizza de sexta
+2026-05-02,expense,21.94,Restaurante,Café com a Ana
+2026-05-09,expense,14.03,Restaurante,Café com a Ana
+2026-05-07,expense,75.10,Saúde,Farmácia
+2026-05-10,expense,77.31,Saúde,Farmácia
+2026-05-10,expense,73.06,Saúde,Farmácia
+2026-05-15,expense,75.71,Lazer,Cinema
+2026-05-04,expense,78.30,Lazer,Cinema
+2026-05-06,reserve_deposit,500.00,,Reserva do mês
+2026-06-05,income,5200.00,Salário,Salário
+2026-06-05,income,656.26,Extra,Freela de design
+2026-06-01,expense,344.89,Mercado,Compras da semana
+2026-06-15,expense,275.05,Mercado,Compras da semana
+2026-06-15,expense,62.00,Mercado,Feira
+2026-06-13,expense,57.18,Mercado,Feira
+2026-06-30,expense,57.26,Mercado,Feira
+2026-06-03,expense,1800.00,Aluguel,Aluguel de novembro
+2026-06-24,expense,222.93,Contas,Conta de luz
+2026-06-09,expense,110.00,Contas,Internet
+2026-06-20,expense,217.19,Transporte,Gasolina
+2026-06-17,expense,29.45,Transporte,Uber
+2026-06-29,expense,22.61,Transporte,Uber
+2026-06-23,expense,32.95,Transporte,Uber
+2026-06-16,expense,89.91,Restaurante,Pizza de sexta
+2026-06-01,expense,15.25,Restaurante,Café com a Ana
+2026-06-01,expense,22.06,Restaurante,Café com a Ana
+2026-06-15,expense,68.21,Saúde,Farmácia
+2026-06-10,expense,46.52,Saúde,Farmácia
+2026-06-14,expense,63.17,Saúde,Farmácia
+2026-06-11,expense,62.47,Lazer,Cinema
+2026-06-27,expense,66.78,Lazer,Cinema
+2026-06-06,reserve_deposit,500.00,,Reserva do mês
+2026-07-05,income,5200.00,Salário,Salário
+2026-07-05,income,821.69,Extra,Freela de design
+2026-07-04,expense,314.14,Mercado,Compras da semana
+2026-07-23,expense,253.84,Mercado,Compras da semana
+2026-07-10,expense,60.74,Mercado,Feira
+2026-07-12,expense,45.32,Mercado,Feira
+2026-07-13,expense,71.96,Mercado,Feira
+2026-07-28,expense,1800.00,Aluguel,Aluguel de novembro
+2026-07-30,expense,215.06,Contas,Conta de luz
+2026-07-25,expense,202.54,Contas,Conta de luz
+2026-07-28,expense,110.00,Contas,Internet
+2026-07-04,expense,154.22,Transporte,Gasolina
+2026-07-27,expense,204.22,Transporte,Gasolina
+2026-07-21,expense,24.09,Transporte,Uber
+2026-07-08,expense,28.88,Transporte,Uber
+2026-07-17,expense,82.92,Restaurante,Pizza de sexta
+2026-07-07,expense,85.29,Restaurante,Pizza de sexta
+2026-07-29,expense,12.59,Restaurante,Café com a Ana
+2026-07-26,expense,20.19,Restaurante,Café com a Ana
+2026-07-18,expense,51.66,Saúde,Farmácia
+2026-07-24,expense,41.60,Saúde,Farmácia
+2026-07-02,expense,68.65,Saúde,Farmácia
+2026-07-20,expense,75.41,Lazer,Cinema
+2026-07-05,expense,73.19,Lazer,Cinema
+2026-07-06,reserve_deposit,500.00,,Reserva do mês
+2026-08-05,income,5200.00,Salário,Salário
+2026-08-05,income,1197.62,Extra,Freela de design
+2026-08-05,expense,305.95,Mercado,Compras da semana
+2026-08-16,expense,385.94,Mercado,Compras da semana
+2026-08-11,expense,342.32,Mercado,Compras da semana
+2026-08-09,expense,61.31,Mercado,Feira
+2026-08-13,expense,59.55,Mercado,Feira
+2026-08-10,expense,1800.00,Aluguel,Aluguel de novembro
+2026-08-22,expense,212.30,Contas,Conta de luz
+2026-08-04,expense,193.70,Contas,Conta de luz
+2026-08-21,expense,193.24,Contas,Conta de luz
+2026-08-03,expense,110.00,Contas,Internet
+2026-08-29,expense,216.50,Transporte,Gasolina
+2026-08-16,expense,195.08,Transporte,Gasolina
+2026-08-08,expense,187.10,Transporte,Gasolina
+2026-08-25,expense,36.43,Transporte,Uber
+2026-08-14,expense,23.71,Transporte,Uber
+2026-08-07,expense,79.99,Restaurante,Pizza de sexta
+2026-08-03,expense,77.15,Restaurante,Pizza de sexta
+2026-08-11,expense,92.76,Restaurante,Pizza de sexta
+2026-08-11,expense,16.89,Restaurante,Café com a Ana
+2026-08-09,expense,81.66,Saúde,Farmácia
+2026-08-07,expense,36.64,Saúde,Farmácia
+2026-08-28,expense,68.45,Lazer,Cinema
+2026-08-13,expense,68.47,Lazer,Cinema
+2026-08-24,expense,70.73,Lazer,Cinema
+2026-08-06,reserve_deposit,500.00,,Reserva do mês
+2026-09-05,income,5200.00,Salário,Salário
+2026-09-05,income,821.64,Extra,Freela de design
+2026-09-16,expense,340.93,Mercado,Compras da semana
+2026-09-12,expense,50.31,Mercado,Feira
+2026-09-22,expense,81.23,Mercado,Feira
+2026-09-17,expense,57.69,Mercado,Feira
+2026-09-03,expense,1800.00,Aluguel,Aluguel de novembro
+2026-09-13,expense,212.74,Contas,Conta de luz
+2026-09-21,expense,110.00,Contas,Internet
+2026-09-10,expense,219.52,Transporte,Gasolina
+2026-09-27,expense,151.78,Transporte,Gasolina
+2026-09-02,expense,35.41,Transporte,Uber
+2026-09-25,expense,89.38,Restaurante,Pizza de sexta
+2026-09-19,expense,90.06,Restaurante,Pizza de sexta
+2026-09-01,expense,72.99,Restaurante,Pizza de sexta
+2026-09-30,expense,22.81,Restaurante,Café com a Ana
+2026-09-28,expense,21.58,Restaurante,Café com a Ana
+2026-09-08,expense,43.93,Saúde,Farmácia
+2026-09-08,expense,47.64,Saúde,Farmácia
+2026-09-17,expense,79.90,Lazer,Cinema
+2026-09-06,reserve_deposit,500.00,,Reserva do mês
+2026-10-05,income,5200.00,Salário,Salário
+2026-10-23,expense,462.12,Mercado,Compras da semana
+2026-10-28,expense,399.85,Mercado,Compras da semana
+2026-10-03,expense,430.71,Mercado,Compras da semana
+2026-10-01,expense,50.29,Mercado,Feira
+2026-10-08,expense,1800.00,Aluguel,Aluguel de novembro
+2026-10-23,expense,204.88,Contas,Conta de luz
+2026-10-31,expense,190.48,Contas,Conta de luz
+2026-10-21,expense,200.62,Contas,Conta de luz
+2026-10-17,expense,110.00,Contas,Internet
+2026-10-25,expense,159.18,Transporte,Gasolina
+2026-10-04,expense,155.76,Transporte,Gasolina
+2026-10-10,expense,192.96,Transporte,Gasolina
+2026-10-07,expense,33.89,Transporte,Uber
+2026-10-09,expense,27.15,Transporte,Uber
+2026-10-26,expense,18.04,Transporte,Uber
+2026-10-18,expense,82.35,Restaurante,Pizza de sexta
+2026-10-09,expense,18.47,Restaurante,Café com a Ana
+2026-10-21,expense,16.96,Restaurante,Café com a Ana
+2026-10-17,expense,54.23,Saúde,Farmácia
+2026-10-18,expense,55.23,Saúde,Farmácia
+2026-10-31,expense,68.43,Lazer,Cinema
+2026-10-06,reserve_deposit,500.00,,Reserva do mês
+2026-11-05,income,5200.00,Salário,Salário
+2026-11-05,income,727.21,Extra,Freela de design
+2026-11-14,expense,276.57,Mercado,Compras da semana
+2026-11-09,expense,324.65,Mercado,Compras da semana
+2026-11-14,expense,70.32,Mercado,Feira
+2026-11-08,expense,80.38,Mercado,Feira
+2026-11-02,expense,67.69,Mercado,Feira
+2026-11-14,expense,1800.00,Aluguel,Aluguel de novembro
+2026-11-13,expense,196.22,Contas,Conta de luz
+2026-11-01,expense,245.29,Contas,Conta de luz
+2026-11-10,expense,240.54,Contas,Conta de luz
+2026-11-17,expense,110.00,Contas,Internet
+2026-11-16,expense,166.41,Transporte,Gasolina
+2026-11-07,expense,27.45,Transporte,Uber
+2026-11-15,expense,27.07,Transporte,Uber
+2026-11-10,expense,74.46,Restaurante,Pizza de sexta
+2026-11-16,expense,94.98,Restaurante,Pizza de sexta
+2026-11-08,expense,21.93,Restaurante,Café com a Ana
+2026-11-02,expense,83.72,Saúde,Farmácia
+2026-11-05,expense,67.23,Saúde,Farmácia
+2026-11-07,expense,60.48,Lazer,Cinema
+2026-11-06,reserve_deposit,500.00,,Reserva do mês
+2026-09-14,reserve_withdrawal,900.00,,Conserto do carro

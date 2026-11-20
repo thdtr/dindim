@@ -1,0 +1,44 @@
+name: Bug report
+description: Something doesn't work the way it should
+labels: [bug]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Tell us what you did, what you expected and what you got instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we see it ourselves?
+      description: The fewer steps, the faster we can fix it.
+      placeholder: |
+        1. Open an account
+        2. Add an expense of 10
+        3. Open the Report tab
+  - type: input
+    id: version
+    attributes:
+      label: dindim version
+      description: You can find it in About.
+      placeholder: 0.1.0-alpha.1
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - Linux
+        - macOS
+        - Windows
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: About has a button that opens the log folder. Logs never contain amounts, notes or passwords, but feel free to look before you paste.
+      render: text

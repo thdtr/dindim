@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=dindim
+GenericName=Expense Tracker
+GenericName[pt_BR]=Controle de gastos
+Comment=Track what comes in and goes out, and see where your money went
+Comment[pt_BR]=Anote o que entra e o que sai e veja para onde foi o dinheiro
+Exec=dindim
+Icon=dindim
+Terminal=false
+Categories=Office;Finance;
+Keywords=money;budget;expenses;finance;savings;
+Keywords[pt_BR]=dinheiro;orçamento;gastos;despesas;finanças;reserva;
+StartupWMClass=dindim
