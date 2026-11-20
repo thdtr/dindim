@@ -16,7 +16,7 @@ use dindim_core::text::{fold, slugify};
 use serde::{Deserialize, Serialize};
 
 use crate::backup::{BackupContents, Snapshot, SnapshotAccount};
-use crate::ledger::{Ledger, clean_name, is_encrypted, sync_parent_dir};
+use crate::ledger::{Ledger, clean_name, is_encrypted, sync_file, sync_parent_dir};
 use crate::{Result, StoreError};
 
 const MANIFEST: &str = "accounts.json";
@@ -125,7 +125,7 @@ impl Vault {
         let tmp = path.with_extension("json.tmp");
         let text = serde_json::to_string_pretty(manifest).map_err(std::io::Error::other)?;
         fs::write(&tmp, text)?;
-        fs::File::open(&tmp)?.sync_all()?;
+        sync_file(&tmp)?;
         fs::rename(&tmp, &path)?;
         sync_parent_dir(&path);
         Ok(())
@@ -319,7 +319,7 @@ impl Vault {
             for (_, path, bytes) in &planned {
                 let tmp = path.with_extension("importing");
                 fs::write(&tmp, bytes)?;
-                fs::File::open(&tmp)?.sync_all()?;
+                sync_file(&tmp)?;
                 staged.push((tmp, path.clone()));
             }
             Ok(())

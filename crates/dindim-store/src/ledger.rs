@@ -451,7 +451,7 @@ impl Ledger {
             let _ = fs::remove_file(&tmp);
             return Err(e);
         }
-        fs::File::open(&tmp)?.sync_all()?;
+        sync_file(&tmp)?;
 
         drop(std::mem::replace(
             &mut self.conn,
@@ -478,6 +478,11 @@ impl Ledger {
         self.conn.execute("DETACH DATABASE rekey", [])?;
         Ok(exported?)
     }
+}
+
+/// Flushes a file to disk. Windows only allows this on a handle opened for writing.
+pub(crate) fn sync_file(path: &Path) -> std::io::Result<()> {
+    fs::OpenOptions::new().write(true).open(path)?.sync_all()
 }
 
 pub(crate) fn sync_parent_dir(path: &Path) {
